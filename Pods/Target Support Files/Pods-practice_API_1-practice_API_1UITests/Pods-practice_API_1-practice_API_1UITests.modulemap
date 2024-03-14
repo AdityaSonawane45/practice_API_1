@@ -1,0 +1,6 @@
+framework module Pods_practice_API_1_practice_API_1UITests {
+  umbrella header "Pods-practice_API_1-practice_API_1UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
